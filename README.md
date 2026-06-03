@@ -67,16 +67,18 @@ I am a self-taught developer focused on automation. I build Minecraft second-acc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=XaXayo12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="stats"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=XaXayo12&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="top langs"/>
-
-<br/><br/>
+<table>
+<tr>
+<td align="center"><img height="175" src="https://github-readme-stats.shion.dev/api?username=XaXayo12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="stats"/></td>
+<td align="center"><img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=XaXayo12&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="top languages"/></td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com/?user=XaXayo12&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XaXayo12&theme=react-dark&bg_color=0d0d0d&color=ffffff&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XaXayo12&theme=react-dark&bg_color=0d0d0d&color=ffffff&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="98%" alt="activity graph"/>
 
 </div>
 
